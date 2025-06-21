@@ -1,0 +1,11 @@
+streamlit
+pandas
+dotenv
+langchain_core
+langchain_groq
+langchain
+streamlit_chat
+chromadb
+langchain_community
+pypdfloader
+tempfile
