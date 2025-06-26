@@ -7,5 +7,3 @@ langchain
 streamlit_chat
 chromadb
 langchain_community
-pypdfloader
-tempfile
