@@ -20,7 +20,7 @@ from ingestion import ingest
 
 #–– Load environment variables
 load_dotenv()
-groq_api = os.getenv("GROQ_API_KEY")
+groq_api = st.secrets["GROQ_API_KEY"]
 
 if not groq_api:
     st.error("❌ Missing one or more API keys.")
