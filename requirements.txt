@@ -7,3 +7,4 @@ langchain
 streamlit_chat
 chromadb
 langchain_community
+pysqlite3
